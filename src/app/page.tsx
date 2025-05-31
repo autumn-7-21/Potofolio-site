@@ -152,7 +152,7 @@ export default function Portfolio() {
             <div className="space-y-6">
               <div className="flex items-center space-x-3 text-gray-600">
                 <Calendar className="w-5 h-5" />
-                <span>生年月日：西暦2001年1月1日 24歳</span>
+                <span>生年月日: 西暦2001年1月1日 24歳</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-600">
                 <MapPin className="w-5 h-5" />
